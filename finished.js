@@ -183,7 +183,7 @@
       .text('Year');
 
     lineContainer.append('text')
-      .attr('transform', 'translate(15, 160)rotate(-90)')
+      .attr('transform', 'translate(225, 110)rotate(-270)')
       .style('font-size', '10pt')
       .text('Population');
   }
